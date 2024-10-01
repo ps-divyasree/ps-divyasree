@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me P.S.Divya Sree
 
 Senior Systems Engineer @ Publicis Sapient
-<img align="right" width="370" height="290" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">                                          
+<img align="right" width="370" height="290" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZkNTlpNmU2eHBsNXA2dmd3eTZjZXAwaXBoM3F5MmlxYWlyNXliYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">                                          
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Java Projects
 - 🤔 I’m looking for help with Placements in FAANG
